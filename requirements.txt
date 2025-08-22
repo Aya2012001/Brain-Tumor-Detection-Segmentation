@@ -4,3 +4,4 @@ keras
 numpy
 pillow
 opencv-python-headless
+huggingface-hub
