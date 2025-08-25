@@ -1,7 +1,8 @@
-streamlit
 tensorflow
-keras
+keras-nightly
+streamlit
 numpy
 pillow
+huggingface_hub
 opencv-python-headless
-huggingface-hub
+
